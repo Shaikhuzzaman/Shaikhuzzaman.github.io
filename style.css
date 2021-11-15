@@ -19,10 +19,6 @@ body {
   min-height: 100vh;
 }
 
-.spacer {
-	height: 150px;
-}
-
 .header{
 	-webkit-transition: opacity 300ms ease-in-out;
 	transition: opacity 300ms ease-in-out;
