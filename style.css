@@ -19,6 +19,30 @@ body {
   min-height: 100vh;
 }
 
+.header{
+	-webkit-transition: opacity 300ms ease-in-out;
+	transition: opacity 300ms ease-in-out;
+}
+
+.header {
+	padding: 2em 1em;
+	text-align: center;
+}
+
+.header h1 {
+	font-size: 3em;
+	font-weight: 400;
+	line-height: 1.2;
+	margin: .5em 0 0;
+}
+
+.header h1 span {
+	font-size: .45em;
+	display: block;
+	padding: .5em 0 1em;
+	color: #999;
+}
+
 .grid {
   display: grid;
   width: 114em;
