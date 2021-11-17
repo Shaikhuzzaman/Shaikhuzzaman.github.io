@@ -147,12 +147,12 @@ body {
 }
 
 .card-btn-wip:hover,
-.card-btn:active {
+.card-btn-wip:active {
   background-color: #c2cffc;
 }
 
 .card-btn-wip:hover span,
-.card-btn:active span {
+.card-btn-wip:active span {
   margin-left: 1.5rem;
 }
 
