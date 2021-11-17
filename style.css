@@ -132,8 +132,8 @@ body {
   padding: 1.5rem;
   font-size: 2rem;
   text-align: center;
-  color: #eee;
-  background-color: #d8e0fd;
+  color: #aaa;
+  background-color: #ccc;
   border: none;
   border-radius: 0.4rem;
   transition: 0.2s;
@@ -148,7 +148,7 @@ body {
 
 .card-btn-wip:hover,
 .card-btn-wip:active {
-  background-color: #fff;
+  background-color: #bbb;
 }
 
 .card-btn-wip:hover span,
